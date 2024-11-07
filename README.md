@@ -77,11 +77,11 @@
         </tr>
         <tr>
             <td rowspan=2><a href="https://github.com/PSImera/Yandex.practicum.ds/blob/main/project_sprint_13_linalg">project_sprint_13_linalg</a></td>
-            <td><b>Protection of personal data of clients</b><br>We need to protect the data of clients of the insurance company "Though the Flood". We will develop a data transformation method that would make it difficult to restore personal information from it, and the quality of machine learning models does not deteriorate. We will justify the correctness of its operation. Selecting the best model is not required</td>
-            <td rowspan=2 align="center">python, pandas, numpy, matplotlib.pyplot, sklearn*, linear algebra</td>
+            <td><b>Protection of personal data of clients</b><br>A data transformation method has been developed to protect the data of clients of the insurance company "Hot Potol" so that it would be difficult to restore personal information from them, and the quality of machine learning models would not deteriorate and the correctness of its operation was substantiated</td>
+            <td rowspan=2 align="center">python, pandas, numpy, matplotlib.pyplot, sklearn, linear algebra</td>
         </tr>
         <tr>
-            <td><b>Защита персональных данных клиентов</b><br>Нам нужно защитить данные клиентов страховой компании «Хоть потоп». Разработаем такой метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию, а качество моделей машинного обучения не ухудшилось. Обоснуем корректность его работы. Подбирать наилучшую модель не требуется</td>
+            <td><b>Защита персональных данных клиентов</b><br>Разработан метод преобразования данных для защиты данные клиентов страховой компании «Хоть потоп», чтобы по ним было сложно восстановить персональную информацию, а качество моделей машинного обучения не ухудшилось и обоснована корректность его работы</td>
         </tr>
         <tr>
             <td rowspan=2><a href="https://github.com/PSImera/Yandex.practicum.ds/blob/main/project_sprint_14_autos">project_sprint_14_autos</a></td>
