@@ -4,9 +4,9 @@ Skills: python, pandas, numpy, matplotlib.pyplot, seaborn, sklearn
 
 ## [Customer Churn](https://github.com/PSImera/Yandex.practicum.ds/blob/main/project_sprint_10_customer_churn/customer_churn_ENG.ipynb)
 
-We have data on the behavior of customers who have already switched to these tariffs. We need to build a model for the classification problem that will select the appropriate tariff. Task: build a model with the highest possible accuracy value. We need to bring the proportion of correct answers to at least 0.75. accuracy must be checked on the test sample
+A model for predicting a client's departure from the bank in the near future has been developed. For training used client behavior historical data and termination of contracts with the bank. The metric used is the F1 score. ROC-AUC curves were constructed. F1 = 0.6189 was achieved on the test sample, and the ROC-AUC score = 0.86.
 
 ## [Отток клиентов](https://github.com/PSImera/Yandex.practicum.ds/blob/main/project_sprint_10_customer_churn/customer_churn_RU.ipynb)
 
-В нашем распоряжении данные о поведении клиентов, которые уже перешли на эти тарифы. Нужно построить модель для задачи классификации, которая выберет подходящий тариф. Задача: построить модель с максимально большим значением accuracy. Нужно довести долю правильных ответов по крайней мере до 0.75. accuracy необходимо проверить на тестовой выборке
-
+Разработана модель прогнозирования ухода клиента из банка в ближайшее время. Для обучения использованны исторические данные о поведении клиентов и расторжении договоров с банком.
+Использованая метрика F1-мера. построены ROC-AUC кривые. На тестовой выборке достигнута F1 = 0.6189, а метрика ROC-AUC = 0.86.
