@@ -6,14 +6,14 @@
     <thead>
         <tr>
             <th>link</th>
-            <th>Discription/Описание</th>
+            <th>Description/Описание</th>
             <th>Skills</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td rowspan=2><a href="https://github.com/PSImera/Yandex.practicum.ds/blob/main/Project_sprint_04_bank">Project_sprint_04_bank</a></td>
-            <td><b>Research on the reliability of borrowers</b><br>Pre-processing of data was carried out. Histograms, boxplots, and scatter diagrams were constructed. The main task: to determine the factors influencing the market value of real estate</td>
+            <td><b>Research on the reliability of debtors</b><br>Following pre-processing, histograms, boxplots, and scatter diagrams were created from data, with the main goal being to determine the factors which influence the market value of real estate.</td>
             <td rowspan=2 align="center">python, pandas</td>
         </tr>
         <tr>
@@ -21,7 +21,7 @@
         </tr>
         <tr>
             <td rowspan=2><a href="https://github.com/PSImera/Yandex.practicum.ds/blob/main/Project_sprint_05_appartments">Project_sprint_05_appartments</a></td>
-            <td><b>Research on apartment listings</b><br>Determining the market value of real estate. The objective is to set the parameters. This will allow us to build an automated system: it will track anomalies and fraudulent activity</td>
+            <td><b>Research on apartment listings</b><br>Determining the market value of real estate. The primary objective is to choose parameters which potentially influence the value of a property, allowing us to build an automated system capable of tracking anomalies and fraudulent activity.</td>
             <td rowspan=2 align="center">pandas, numpy, missingpy</td>
         </tr>
         <tr>
@@ -29,7 +29,7 @@
         </tr>
         <tr>
             <td rowspan=2><a href="https://github.com/PSImera/Yandex.practicum.ds/blob/main/Project_sprint_06_calls">Project_sprint_06_calls</a></td>
-            <td><b>Statistical data analysis. «Rates»</b><br>The tariffs of the federal mobile operator were analyzed. The study of objects and their interrelations using statistical methods. Anomalies were identified and processed</td>
+            <td><b>Statistical data analysis. «Rates»</b><br>An statistical analysis of the rates of an unnamed federal telecommunications company was carried out. Various services offered by the company and their interrelations were studied using statistical methods, after which anomalies were identified and processed.</td>
             <td rowspan=2 align="center">python, pandas, numpy, seaborn,matplotlib.pyplot, scipy</td>
         </tr>
         <tr>
@@ -37,7 +37,7 @@
         </tr>
         <tr>
             <td rowspan=2><a href="https://github.com/PSImera/Yandex.practicum.ds/blob/main/Project_sprint_08_sbor1_games">Project_sprint_08_sbor1_games</a></td>
-            <td><b>Project for the game store «Streamchik»</b><br>Historical data on game sales, user and expert ratings, genres, and platforms are available. It is necessary to identify patterns that determine the success of a game. This will allow you to bet on a potentially popular product and plan advertising campaigns. We have data up to 2016. It is necessary to plan the company for 2017</td>
+            <td><b>Project for the game store «Streamchik»</b><br>Historical data on game sales, user and expert ratings, genres, and platforms are available. The job is to identify patterns which influence and/or determine the success of any given game, which in turn will allow you to bet on a potentially popular or successful product and plan advertising campaigns. Using data up to 2016, the task is to plan for the company for 2017.</td>
             <td rowspan=2 align="center">python, pandas, numpy, scipy, matplotlib.pyplot</td>
         </tr>
         <tr>
@@ -45,7 +45,7 @@
         </tr>
         <tr>
             <td rowspan=2><a href="https://github.com/PSImera/Yandex.practicum.ds/blob/main/Project_sprint_09_rates">Project_sprint_09_rates</a></td>
-            <td><b>Rates recommendation</b><br>We have data on the behavior of customers who have already switched to these rates. We need to build a model for the classification problem that will select the appropriate rates. Task: build a model with the highest possible accuracy value. It is necessary to bring the proportion of correct answers to at least 0.75. accuracy must be checked on the test sample</td>
+            <td><b>Rates recommendation</b><br>We have data on the behavior of customers who have already switched to these rates and need to build a model for classification which will select appropriate rates. Task: build a model with the highest possible accuracy value. The success rate of correct answers must be brought to at least 0.75. The accuracy must be checked on the test sample.</td>
             <td rowspan=2 align="center">python, pandas, numpy, seaborn, sklearn</td>
         </tr>
         <tr>
@@ -53,7 +53,7 @@
         </tr>
         <tr>
             <td rowspan=2><a href="https://github.com/PSImera/Yandex.practicum.ds/blob/main/project_sprint_10_customer_churn">project_sprint_10_customer_churn</a></td>
-            <td><b>Customer Churn</b><br>A model for predicting a client's departure from the bank in the near future has been developed. For training used client behavior historical data and termination of contracts with the bank. The metric used is the F1 score. ROC-AUC curves were constructed. F1 = 0.6189 was achieved on the test sample, and the ROC-AUC score = 0.86.</td>
+            <td><b>Customer Churn</b><br>A model for predicting the likelihood of a client's departure from a bank in the near future has been developed. The model was trained on historical data on client behavior as well as terminated contracts with the bank. The metric used is F1 score. ROC-AUC curves were also constructed. F1 = 0.6189 was achieved on the test sample, and the ROC-AUC score = 0.86.</td>
             <td rowspan=2 align="center">python, pandas, numpy, matplotlib.pyplot, seaborn, sklearn</td>
         </tr>
         <tr>
@@ -61,15 +61,15 @@
         </tr>
         <tr>
             <td rowspan=2><a href="https://github.com/PSImera/Yandex.practicum.ds/blob/main/project_sprint_11_oil_wells">project_sprint_11_oil_wells</a></td>
-            <td><b>Selecting a Well Location</b><br>Project for the mining company «GlavRosGosNeft». It is necessary to decide where to drill a new well. Oil samples were provided in three regions: 10,000 fields in each, where the quality of oil and the volume of its reserves were measured. A machine learning model was built that will help determine the region where production will bring the greatest profit. The Bootstrap technique was used to analyze the potential profit and risks</td>
+            <td><b>Picking a location for a well</b><br>Project for the mining company «GlavRosGosNeft». A decision must be made on where to drill a new well. Oil samples were provided in three regions: 10,000 fields in each, where the quality of oil and the volume of its reserves were measured. A machine learning model was built to help determine the region where production will bring the greatest profit. The Bootstrap technique was used to analyze the potential profit and risks</td>
             <td rowspan=2 align="center">python, pandas, numpy, matplotlib.pyplot, seaborn, sklearn, scipy</td>
         </tr>
         <tr>
-            <td><b>Выбор локации для скважины</b><br>роект для добывающей компании «ГлавРосГосНефть». Необходимо решить, где бурить новую скважину. Предоставлены пробы нефти в трёх регионах: в каждом 10 000 месторождений, где измерили качество нефти и объём её запасов. Построена модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль. Техникой Bootstrap проанализированна возможная прибыль и риски</td>
+            <td><b>Выбор локации для скважины</b><br>Проект для добывающей компании «ГлавРосГосНефть». Необходимо решить, где бурить новую скважину. Предоставлены пробы нефти в трёх регионах: в каждом 10 000 месторождений, где измерили качество нефти и объём её запасов. Построена модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль. Техникой Bootstrap проанализированна возможная прибыль и риски</td>
         </tr>
         <tr>
             <td rowspan=2><a href="https://github.com/PSImera/Yandex.practicum.ds/blob/main/project_sprint_12_sbor2_gold_recovery">project_sprint_12_sbor2_gold_recovery</a></td>
-            <td><b>Recovery of gold from ore</b><br>prototype of a machine learning model was prepared for «Cifra». The company develops solutions for the efficient operation of industrial enterprises. The model predicts the gold recovery coefficient from gold-bearing ore. Data with production and purification parameters were used. The model will help optimize production so as not to launch an enterprise with unprofitable characteristics</td>
+            <td><b>Recovery of gold from ore</b><br>A prototype of a machine learning model was prepared for the company «Cifra», which develops solutions for efficient operation of industrial enterprises. The model predicts the gold recovery coefficient from gold-bearing ore. The model was developed using data comprised of production and purification parameters and will help optimize production so as not to start a business with unprofitable characteristics</td>
             <td rowspan=2 align="center">python, pandas, numpy, matplotlib.pyplot, seaborn, plotly, sklearn</td>
         </tr>
         <tr>
@@ -77,7 +77,7 @@
         </tr>
         <tr>
             <td rowspan=2><a href="https://github.com/PSImera/Yandex.practicum.ds/blob/main/project_sprint_13_linalg">project_sprint_13_linalg</a></td>
-            <td><b>Protection of personal data of clients</b><br>A data transformation method has been developed to protect the data of clients of the insurance company "Hot Potol" so that it would be difficult to restore personal information from them, and the quality of machine learning models would not deteriorate and the correctness of its operation was substantiated</td>
+            <td><b>Protection of sensitive personal data of clients</b><br>A data transformation method was developed to protect the data of the clients of the insurance company "Hot Potol", so that it would be difficult to reconstruct personal information from them without harming the quality of machine learning models and maintaining their correctness</td>
             <td rowspan=2 align="center">python, pandas, numpy, matplotlib.pyplot, sklearn, linear algebra</td>
         </tr>
         <tr>
@@ -93,7 +93,7 @@
         </tr>
         <tr>
             <td rowspan=2><a href="https://github.com/PSImera/Yandex.practicum.ds/blob/main/project_sprint_15_taxi">project_sprint_15_taxi</a></td>
-            <td><b>Taxi order forecasting</b><br>Based on historical data on taxi orders at airports for the company "Chёtenkoe taxi", the following was done: resampling and data analysis; different models with different hyperparameters were trained and tested. The constructed model forecasts the number of taxi orders for the next hour</td>
+            <td><b>Taxi order prediction</b><br>Based on historical data on taxi orders at airports for the company "Chёtenkoe taxi", the following was done: resampling and data analysis; different models with different hyperparameters were trained and tested. The constructed model predicts the number of taxi orders in the next hour</td>
             <td rowspan=2 align="center">python, pandas, numpy, matplotlib.pyplot, sklearn, statsmodels, catboost</td>
         </tr>
         <tr>
@@ -101,7 +101,7 @@
         </tr>
         <tr>
             <td rowspan=2><a href="https://github.com/PSImera/Yandex.practicum.ds/blob/main/project_sprint_17_toxic_comments">project_sprint_17_toxic_comments</a></td>
-            <td><b>Project for «Wikishop»</b><br>For the online store «Wikishop», on a data set with toxicity markup, a model for classifying comments into positive and negative was trained. Now users can edit and supplement product descriptions, as in wiki communities, and toxic comments will be sent for moderation</td>
+            <td><b>Project for «Wikishop»</b><br>For the online store «Wikishop», a model for grouping comments into positive comments and negative comments was trained based on a data set with toxicity markup. This allows users to edit and supplement product descriptions - like in wiki communities - and toxic comments will be sent in for moderation.</td>
             <td rowspan=2 align="center">python, pandas, numpy, matplotlib.pyplot, sklearn, nltk, torch, transformers, imblearn.pipelineneural language processing (NLP), BERT model used</td>
         </tr>
         <tr>
@@ -109,7 +109,7 @@
         </tr>
         <tr>
             <td rowspan=2><a href="https://github.com/PSImera/Yandex.practicum.ds/blob/main/project_sprint_19_computer_vision">project_sprint_19_computer_vision</a></td>
-            <td><b>Determining the age of buyers</b><br>The «Khleb-Sol» supermarket chain is implementing a computer vision system for processing photos of buyers. Photo recording in the checkout area will help determine the age of customers in order to analyze purchases and offer goods and control the integrity of cashiers when selling alcohol. A model has been built that determines a person's approximate age based on a photograph. The ResNet50 model was used and further trained on the provided labeled dataset</td>
+            <td><b>Determining the age of buyers</b><br>The supermarket chain «Khleb-Sol» is implementing a computer vision system for processing photos of customers. Photo recording in the checkout area will help determine the age of customers in order to analyze purchases, offer goods and control the integrity of cashiers when selling alcohol. A model which determines a person's approximate age based on a photograph was built by making use of the ResNet50 model and further training it on the provided labeled dataset.</td>
             <td rowspan=2 align="center">python, pandas, matplotlib.pyplot, tensorflow, keras, ResNet50, computer vision (CV)</td>
         </tr>
         <tr>
@@ -117,7 +117,7 @@
         </tr>
         <tr>
             <td rowspan=2><a href="https://github.com/PSImera/Yandex.practicum.ds/blob/main/project_sprint_22_final">project_sprint_22_final</a></td>
-            <td><b>Determining the churn of telecom company customers</b><br>A model has been built for the telecom operator «Niedinorazryva.com» to predict customer churn. If it turns out that the user is planning to leave, they will be offered promotional codes and special conditions. Personal data about some customers, information about their tariffs and contracts were used to train the model</td>
+            <td><b>Determining the churn of telecom company customers</b><br>A model was built for the telecom operator «Niedinorazryva.com» to predict customer churn. If a customer is determined to have a high likelihood of leaving, they will be offered promotional codes and special offers. Personal data of some customers and information about their rates and contracts were used to train the model.</td>
             <td rowspan=2 align="center">python, pandas, numpy, matplotlib.pyplot, seaborn, imblearn, phik, sklearn, lightgbm</td>
         </tr>
         <tr>
